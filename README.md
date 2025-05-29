@@ -4,6 +4,8 @@ This is a TensorFlow implementation of the paper:
 **"An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale"**  
 by Dosovitskiy et al., published by Google Research in 2020.
 
+Link to the paper: https://arxiv.org/abs/2010.11929
+
 ##  Paper Summary
 
 ViT applies the Transformer architecture, originally designed for NLP, to image classification by:
