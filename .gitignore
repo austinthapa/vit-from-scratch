@@ -1,0 +1,8 @@
+# virtual environments
+vit-implement-venv
+
+# Python Bytecode
+pycache
+
+# Environment variables
+.env
